@@ -29,8 +29,8 @@ With a focus on performance, user experience, and maintainable code, I help brin
 
 ### 💼 Experience:
 - 1 year at **All Safe**
-- 3 months at **Qeema Tech**
-- 1 year at **Tech Code**
+- 6 months at **Qeema Tech**
+- 1 year at **ZH Coding**
 - 🚀 Currently freelancing on platforms like **Khamsat** and **Upwork**
 
 ---
