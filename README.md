@@ -44,9 +44,9 @@ With a focus on performance, user experience, and maintainable code, I help brin
 ---
 
 ### 📬 Let's Connect:
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/momen-ibrahim-a18138216/))
- - 💌 Email:ibrahimmomen179@gmail.com
-- 📱 [My Flutter Portfolio]([https://your-portfolio.com](https://drive.google.com/file/d/1qUR_mkL3kGw4uoWaTczR5OMOnQIL_Mb1/view?usp=drive_link))
+ - 💼 [https://www.linkedin.com](https://www.linkedin.com/in/momen-ibrahim-a18138216/](https://www.linkedin.com/in/momen-ibrahim-a18138216/)
+ - 💌 Email: ibrahimmomen179@gmail.com
+ - 📱 [https://your-portfolio.com](https://drive.google.com/file/d/1qUR_mkL3kGw4uoWaTczR5OMOnQIL_Mb1/view?usp=drive_link](https://drive.google.com/file/d/1qUR_mkL3kGw4uoWaTczR5OMOnQIL_Mb1/view?usp=drive_link)
 
 ---
 
